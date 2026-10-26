@@ -1,0 +1,19 @@
+{
+  "name": "Gujarat Yatra Companion",
+  "short_name": "Yatra",
+  "description": "Family road trip companion from Indore to Gujarat with GPS tracking, budget stays, and food recommendations",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e40af",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["travel", "navigation"],
+  "lang": "en"
+}
