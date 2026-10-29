@@ -12,7 +12,7 @@ A comprehensive, mobile-first Progressive Web App for planning and navigating a 
 
 ### 📋 7-Day Preloaded Itinerary
 - Day 1: Indore → Rajkot (~530 km)
-- Day 2: Rajkot → Dwarka (~220 km)
+- Day 2: Rajkot → Dwarka via Nageshwar & Beyt Dwarka (~200 km, 6:30 AM start)
 - Day 3: Dwarka Local Sightseeing
 - Day 4: Dwarka → Somnath via Porbandar (~230 km)
 - Day 5: Somnath → Sarangpur (~280 km)
